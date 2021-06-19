@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-Uyyy que rico
+## Bienvenido a mi pagina de github
 
 You can use the [editor on GitHub](https://github.com/perrovacaburro/perrovacaburro.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
